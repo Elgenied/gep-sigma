@@ -1,6 +1,8 @@
 gep_onsset
 =================================
 
+gep-sigma modification for Mini-grids expansion and development
+
 [![Documentation Status](https://readthedocs.org/projects/gep-onsset/badge/?version=latest)](https://gep-onsset.readthedocs.io/en/latest/?badge=latest)
 
 Documentation: https://gep-onsset.readthedocs.io/en/latest/index.html#
